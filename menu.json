@@ -30,7 +30,7 @@
    "prizes": [
     {
      "n": "Gaseosa P gratis",
-     "c": 50,
+     "c": 10,
      "w": true
     },
     {
@@ -40,7 +40,7 @@
     },
     {
      "n": "10% de descuento",
-     "c": 50,
+     "c": 10,
      "w": true
     },
     {
@@ -50,7 +50,7 @@
     },
     {
      "n": "Papas gratis",
-     "c": 50,
+     "c": 10,
      "w": true
     },
     {
