@@ -253,10 +253,19 @@
     },
     {
      "n": "Super crush ",
-     "d": "Papas a la francesa+ queso gratinado+ 6yyyyyryyyyewyyyyyyeytyyrtyueyyyyyyyyyyyyyeyryyyyyyyyyyyutyyyyyyryyyyeyyyyywy tu yyyyyysyyyyyyyyyyeyyyyyyeeyyyeyyyyyyyyyywyyyyyyteyyrryyyyyyyyyyyeyyyeyyyy",
-     "p": 0,
+     "d": "Papas a la francesa+ queso gratinado+ snacks crush en cuadritos+salsa de la casa ",
+     "p": 21800,
      "old": 0,
-     "img": "img/super-crush-mwz99ewj0.jpg",
+     "img": "img/super-crush-mwz9ykiu0.jpg",
+     "soldout": false,
+     "hide": false
+    },
+    {
+     "n": "Alitas en salsa BBQ",
+     "d": "3 alitas + papas a la francesa ",
+     "p": 13800,
+     "old": 0,
+     "img": "img/alitas-en-salsa-bbq-mwz9ykiw1.jpg",
      "soldout": false,
      "hide": false
     }
