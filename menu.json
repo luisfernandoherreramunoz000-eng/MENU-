@@ -71,7 +71,7 @@
    "cat": "Combos",
    "items": [
     {
-     "n": "Combo individual ala",
+     "n": "Combo individual Muslo",
      "d": "175 g de papa a la francesa + 1 ala de pollo broaster completa + miel + tomate",
      "p": 8000,
      "old": 0,
@@ -80,7 +80,7 @@
      "hide": false
     },
     {
-     "n": "Combo individual muslo",
+     "n": "Combo individual Ala",
      "d": "175 g de papa a la francesa + 1 muslo de pollo broaster + miel + tomate",
      "p": 8000,
      "old": 0,
@@ -93,7 +93,7 @@
      "d": "175 g de papa a la francesa + 1 contramuslo de pollo broaster + miel + tomate",
      "p": 9900,
      "old": 0,
-     "img": "img/combo-individual-contramuslo.jpg",
+     "img": "img/combo-individual-contramuslo-mwz64unl0.jpg",
      "soldout": false,
      "hide": false
     },
@@ -111,7 +111,7 @@
      "d": "275 g de papa a la francesa + 2 alas de pollo broaster + miel + tomate",
      "p": 13500,
      "old": 0,
-     "img": "img/combo-pareja-alas.jpg",
+     "img": "img/combo-pareja-alas-mwz64unn1.jpg",
      "soldout": false,
      "hide": false
     },
@@ -120,7 +120,7 @@
      "d": "275 g de papa a la francesa + 2 muslos de pollo broaster + miel + tomate",
      "p": 13500,
      "old": 0,
-     "img": "img/combo-pareja-muslos.jpg",
+     "img": "img/combo-pareja-muslos-mwz64uno2.jpg",
      "soldout": false,
      "hide": false
     },
