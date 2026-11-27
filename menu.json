@@ -68,6 +68,56 @@
  },
  "cats": [
   {
+   "cat": "Arma tu combo",
+   "items": [
+    {
+     "n": "Muslo",
+     "d": "1 muslo",
+     "p": 4200,
+     "old": 0,
+     "img": "img/muslo-mwz83k2o0.jpg",
+     "soldout": false,
+     "hide": false
+    },
+    {
+     "n": "Ala",
+     "d": "1 Ala ",
+     "p": 4700,
+     "old": 0,
+     "img": "img/ala-mwz83k2q1.jpg",
+     "soldout": false,
+     "hide": false
+    },
+    {
+     "n": "Pechuga ",
+     "d": "1 pechuga ",
+     "p": 7700,
+     "old": 0,
+     "img": "img/pechuga-mwz83k2q2.jpg",
+     "soldout": false,
+     "hide": false
+    },
+    {
+     "n": "Contramuslo ",
+     "d": "1 contramuslo ",
+     "p": 5900,
+     "old": 0,
+     "img": "img/contramuslo-mwz83k2r3.jpg",
+     "soldout": false,
+     "hide": false
+    },
+    {
+     "n": "Papas al vapor ",
+     "d": "2 papas ",
+     "p": 800,
+     "old": 0,
+     "img": "img/papas-al-vapor-mwz83k2r4.jpg",
+     "soldout": false,
+     "hide": false
+    }
+   ]
+  },
+  {
    "cat": "Combos",
    "items": [
     {
