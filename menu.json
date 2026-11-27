@@ -241,6 +241,24 @@
      "img": "img/mini-crush.jpg",
      "soldout": false,
      "hide": false
+    },
+    {
+     "n": "Snacks crush ",
+     "d": "Papas a la francesa + snacks + salsa de la casa ",
+     "p": 16000,
+     "old": 0,
+     "img": "img/snacks-crush-mwz8eizd0.jpg",
+     "soldout": false,
+     "hide": false
+    },
+    {
+     "n": "Nuevo producto",
+     "d": "",
+     "p": 0,
+     "old": 0,
+     "img": "",
+     "soldout": false,
+     "hide": false
     }
    ]
   },
